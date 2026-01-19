@@ -1,0 +1,23 @@
+cat <<EOF > .gitignore
+# Virtual environments
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Pytest
+.pytest_cache/
+
+# Playwright
+playwright/.cache/
+ms-playwright/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+EOF
