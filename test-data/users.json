@@ -1,0 +1,12 @@
+{
+  "validUser": {
+    "firstName": "Mudassir",
+    "lastName": "Imam",
+    "email": "mudassir@test.com",
+    "mobile": "9998887776"
+  },
+  "invalidUser": {
+    "firstName": "",
+    "mobile": "123"
+  }
+}
