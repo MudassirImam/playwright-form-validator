@@ -8,7 +8,7 @@ def test_username_required():
     form = FormPage(page)
     validator = FieldValidator(page)
 
-    form.open("https://docs.google.com/forms/d/1ZTmPac7DOYxZJD1qxDH9CJsaUD-IvMwmSOKg28Mq7K8/edit")
+    form.open("https://demoqa.com/automation-practice-form")
 
     error = validator.validate_required(
         "#username",

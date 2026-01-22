@@ -1,0 +1,25 @@
+{
+  "name": "playwright-form-validator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MudassirImam/playwright-form-validator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MudassirImam/playwright-form-validator/issues"
+  },
+  "homepage": "https://github.com/MudassirImam/playwright-form-validator#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.9"
+  }
+}
